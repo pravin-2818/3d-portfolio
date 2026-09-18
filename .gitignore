@@ -1,0 +1,18 @@
+# Scratch and testing directories
+scratch/
+clean_orig/
+scratch_inspect/
+
+# Screenshots and scratch images
+Screenshot*.png
+scratch_*.png
+
+# Python server & cache
+server.py
+__pycache__/
+*.pyc
+
+# Old backup files
+old_index.html
+index_itom.html
+assets_list.txt
